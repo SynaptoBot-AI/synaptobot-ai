@@ -9,7 +9,7 @@
 
 **Institutional-Grade Algorithmic Trading & Gamified Web3 Ecosystem on Solana**
 
-[Website](https://synaptobot.com) • [X (Twitter)](https://x.com/SynaptoBotAI) • [Discord](https://discord.gg/synaptobotai)
+[Website](https://synaptobot.com) • [X (Twitter)](https://x.com/SynaptoBotAI) • [Discord](https://discord.gg/tDGT7QVbVa)
 
 </div>
 
