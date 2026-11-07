@@ -1,41 +1,13 @@
-```markdown
-# 💎 $SYNBAI Tokenomics & Gamified Ecosystem
+# $SYNBAI: status and future considerations
 
-<div align="center">
+This page is a status note, not a token offering, financial promotion, or finalized tokenomics specification.
 
-**The Fuel of Autonomous Algorithmic Trading**
+## Current status
 
-</div>
+No active $SYNBAI Mainnet launch, sale, liquidity pool, staking program, mining mechanism, or rewards distribution is announced here. Website references to token utility, tiers, rigs, or Founder Passes are conceptual preview material unless a future official announcement provides verifiable details.
 
----
+## If the project explores a token later
 
-## 🎯 Overview
-The **`$SYNBAI`** token powers the gamified progression layers of the SynaptoBot AI ecosystem. By bridging quantitative trading performance with Web3 mechanics, users actively participate in yield generation, resource allocation, and elite tier access.
+The project would first need to define and publish the token's purpose, supply and allocation, authority and upgrade controls, liquidity plans, risks, and operating responsibilities. Smart contracts would require independent security review. Applicable legal, tax, consumer-protection, and platform requirements would need review before any public offer or launch.
 
----
-
-## 🎮 Progression Tiers & Rig Mechanics
-
-Strategy rigs within the platform function as dynamic, yield-generating assets categorized into four distinct institutional tiers:
-
-1. **🥉 Bronze Tier**
-   * *Focus:* Baseline risk-adjusted trend-following models.
-   * *Utility:* Entry-level staking and baseline `$SYNBAI` emission rates.
-
-2. **🥈 Silver Tier**
-   * *Focus:* Multi-timeframe momentum convergence.
-   * *Utility:* Enhanced throughput and optimized reward scaling.
-
-3. **🥇 Gold Tier**
-   * *Focus:* Volatility-breakout statistical arbitrage.
-   * *Utility:* High-yield operational parameters and priority execution channels.
-
-4. **⚡ Quantum Tier**
-   * *Focus:* Elite Deep Neural execution engines.
-   * *Utility:* Maximum tier privileges, advanced visual telemetry, and top-tier `$SYNBAI` mining rewards.
-
----
-
-## ⛏️ Real-Time Mining & Staking Architecture
-* **Second-by-Second Telemetry:** Token generation counters update in real-time, reflecting active engagement and deployed staking units.
-* **Non-Custodial Security:** All reward distributions and staking interactions execute natively on the Solana blockchain, eliminating counterparty risk.
+No price, return, liquidity, listing, or utility outcome is promised. Do not purchase or transfer assets based on mockups or roadmap language.

@@ -1,24 +1,33 @@
-# ❓ Frequently Asked Questions (FAQ)
+# Frequently Asked Questions
 
-<div align="center">
+### What is SynaptoBot AI?
 
-**Everything you need to know about SynaptoBot AI**
+An early-stage project exploring quantitative research tools, a Discord community bot, and a Solana-focused web experience. The website and Synapto AI assistant are development previews.
 
-</div>
+### Does it trade automatically or provide buy and sell signals?
 
----
+No live automated trade execution is offered. Prototype market alerts and commentary are informational, may be delayed or incorrect, and are not personalized investment advice or a promise of returns.
 
-### Q: What is SynaptoBot AI?
-**A:** SynaptoBot AI is an institutional-grade algorithmic trading platform built on the Solana blockchain, merging high-performance quantitative finance with gamified Web3 mechanics and native `$SYNBAI` token mining.
+### Is $SYNBAI live on Solana Mainnet?
 
-### Q: How are trading strategies validated?
-**A:** All baseline strategies undergo strict automated backtesting via **StrategyQuant X** and extreme **Monte Carlo stress-testing** to ensure maximum resilience and structural stability before deployment.
+This project page does not announce an active Mainnet token launch, token sale, or liquidity pool. Staking, mining, and token rewards are not active. Check official project channels for any future, independently verifiable announcement.
 
-### Q: Are my funds safe? How does non-custodial control work?
-**A:** Yes. SynaptoBot AI operates on a strictly non-custodial architecture utilizing Solana smart contracts. You retain absolute ownership and control of your assets at all times; the platform never holds custody of user funds.
+### Are the Founder Passes for sale?
 
-### Q: How does `$SYNBAI` mining work?
-**A:** `$SYNBAI` token generation is tracked via second-by-second telemetry counters directly linked to your active staking engagement and deployed strategy rig tier (Bronze, Silver, Gold, Quantum).
+The passes currently shown on the website are concept or preview material. Active minting and sales are not available.
 
-### Q: Where can I review the core code or algorithms?
-**A:** In accordance with our security policy and the **Kryptonite Rule**, proprietary MQL5 execution codes and core algorithmic weights remain strictly isolated in encrypted server enclaves to protect proprietary assets. This public repository provides architecture overviews, executive briefs, and integration guidelines.
+### What does wallet connection do?
+
+It supports identity and interface testing. Connecting a wallet does not send a transaction, transfer assets, or give the project custody of funds. Review every wallet prompt carefully.
+
+### What is Synapto AI / NEXUS?
+
+An experimental project assistant prototype. Model performance, factual accuracy, availability, and usage limits are not guaranteed and may change during testing.
+
+### Are performance claims or backtests verified?
+
+No performance or return claims are made here. A prototype, backtest, or historical result cannot guarantee future outcomes. Verify any data independently.
+
+### Where can I find plans and contact the project?
+
+See [ROADMAP.md](ROADMAP.md) for conditional plans. Public links: [website](https://synaptobot.com), [X](https://x.com/SynaptoBotAI), and [Discord](https://discord.gg/tDGT7QVbVa).

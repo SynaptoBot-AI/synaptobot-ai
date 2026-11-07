@@ -1,63 +1,28 @@
-# ⚡ SynaptoBot AI HQ
+# SynaptoBot AI
 
-<div align="center">
+SynaptoBot AI is an early-stage project exploring quantitative research tools, a community Discord bot, and a Solana-focused web experience. The current site and assistant are development previews. Features shown in the interface may be simulated or incomplete.
 
-[![Network](https://img.shields.io/badge/Network-Solana-14F195?style=for-the-badge&logo=solana&logoColor=black)]()
-[![Status](https://img.shields.io/badge/Status-Beta%20Live-00FF66?style=for-the-badge)]()
-[![Quant Engine](https://img.shields.io/badge/Quant-StrategyQuant%20X-blueviolet?style=for-the-badge)]()
-[![Token](https://img.shields.io/badge/Token-$SYNBAI-ff0055?style=for-the-badge)]()
+[Website](https://synaptobot.com) · [X](https://x.com/SynaptoBotAI) · [Discord](https://discord.gg/tDGT7QVbVa)
 
-**Institutional-Grade Algorithmic Trading & Gamified Web3 Ecosystem on Solana**
+## Current status
 
-[Website](https://synaptobot.com) • [X (Twitter)](https://x.com/SynaptoBotAI) • [Discord](https://discord.gg/tDGT7QVbVa)
+- A Discord bot prototype provides market-related commands and informational alerts.
+- The website includes a dashboard and signal pages. Market data and historical research are experimental; availability depends on data sources and market hours.
+- Synapto AI / NEXUS is an experimental assistant prototype. Its model, latency, context limits, and daily usage limits may change during testing.
+- Wallet connection is for identity and interface testing. It does not authorize transactions or give the site custody of funds.
 
-</div>
+## Not live
 
----
+The project does not currently offer live automated trading, investment execution, staking, token mining or rewards, a functioning token sale, or active Founder Pass sales. A displayed rig, counter, pass, roadmap item, or estimate should not be interpreted as an operating financial product. No Mainnet token launch or liquidity pool is announced here.
 
-## 🚀 Overview
+## Research and risk
 
-**SynaptoBot AI** bridges traditional high-frequency quantitative finance with next-generation Web3 gamification. Built for lightning-fast execution on **Solana**, the platform deploys rigorously validated quantitative models structured into distinct progression tiers. 
+Market commentary and alerts are informational and may be delayed, incomplete, or wrong. They are not personalized investment advice, an offer to buy or sell an asset, or a guarantee of performance. Backtests and prototype outputs do not establish future results. Users should independently verify data and make their own decisions.
 
-Users interact with an advanced cyberpunk command dashboard where active strategy rigs operate as yield-generating assets—staking units in real-time, executing automated operations, and mining native **`$SYNBAI`** tokens second-by-second.
+## Roadmap and contributions
 
----
-
-## 🏛️ Core Architecture & Tech Stack
-
-SynaptoBot AI relies on a robust, high-performance infrastructure designed for zero downtime and ultra-low latency execution:
-* **Execution & Backend:** High-performance Python architecture managed via PM2 process manager.
-* **Web Server & Routing:** Optimized Nginx reverse proxy routing secure API requests and WebSocket telemetry.
-* **Quant Validation:** All baseline strategies undergo strict **StrategyQuant X** validation and extreme **Monte Carlo stress-testing** before deployment.
-* **Blockchain Layer:** Fully non-custodial Solana smart contract integration for absolute user control and transparent balance verification.
+Planned work is conditional and may change; see [ROADMAP.md](ROADMAP.md). This repository contains public-facing project documentation only, not the private application source, deployment configuration, credentials, or trading data. See [SECURITY.md](SECURITY.md) for responsible disclosure and [LICENSE](LICENSE) for reuse terms.
 
 ---
 
-## 🎮 Gamified Progression Tiers
-
-Strategy rigs within the SynaptoBot ecosystem are categorized into institutional performance tiers:
-1. **Bronze Tier:** Baseline risk-adjusted trend-following filters.
-2. **Silver Tier:** Multi-timeframe momentum convergence models.
-3. **Gold Tier:** Volatility-breakout statistical arbitrage rigs.
-4. **Quantum Tier:** Elite Deep Neural execution engines with customized visual telemetry.
-
----
-
-## ⛏️ Real-Time $SYNBAI Mining & Staking
-
-* **Second-by-Second Counters:** Live telemetry tracks `$SYNBAI` token generation directly tied to user staking engagement and active rig deployment.
-* **Non-Custodial Architecture:** Users retain complete ownership of their assets via seamless Solana wallet connectivity (Phantom, Solflare, etc.).
-
----
-
-## 🛡️ Security & Transparency Protocol
-
-In accordance with our core operational security standards:
-* Proprietary algorithmic weights, core MQL5 source execution code, and private database credentials remain strictly encrypted and isolated in secure server environments.
-* This public repository provides architecture overviews, executive briefs, and integration documentation for community auditing, listing verification, and partnership onboarding.
-
----
-
-<div align="center">
-  <em>Engineered for autonomous financial dominance.</em>
-</div>
+*An experimental project in active development. Status: November 2026.*
